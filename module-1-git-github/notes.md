@@ -50,4 +50,4 @@ making edits or modifications and commiting it directly to the main branch inste
 
 ## How this connects to something else
 
-this connects directly to videogames and cloud docs like google docs,just like playing on a sandbox server or writing in suggesting mode in google docs, branches let you play around without ruining the main world  or messing the main shared document
+
