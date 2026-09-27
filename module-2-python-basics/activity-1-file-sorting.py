@@ -95,6 +95,5 @@ fixed it by adding "os.path.exists" to create the folder first before moving any
 ============================================
 HOW THIS CONNECTS TO SOMETHING ELSE
 ============================================
-this works just like real world automation that sorts downloaded files, organize student assignments 
-by class, or back up files automatically to save time on daily repetitive task
+
 """
