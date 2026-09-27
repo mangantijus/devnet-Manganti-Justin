@@ -1,14 +1,15 @@
 # Module 1 — Git & GitHub
 
-**Student:** [your name]
-**Date:** [date]
+**Student:** Manganti, Justin Rey
+**Date:** 09/27/2026
 
 ---
 
 ## What is Git? What is GitHub? (explain like you're teaching a friend who's never used either)
 
-[Write your own explanation here. What problem does Git actually solve? How is GitHub different from Git itself?]
+  For git its like in videogames, in videogames there is a savepoint or checkpoint for saving your progress in the game, so if you mess up or made a mistake while trying to defeat the boss, you dont need to start all over again from the start, you just need to reload the savepoint or checkpoint you saved earlier.
 
+ For github is like google drive or google docs, it stores the work or documents you created, where you can also share to your classmates or friends, they can also have a copy of the work and modify whenever they want, also they can make suggestions for the document you uploaded
 ---
 
 ## Key vocabulary (in your own words)
@@ -24,20 +25,25 @@
 
 ## Walking through what I did
 
-[Describe, step by step, a real branch → commit → push → PR you did. Include the actual commands you used.]
+i created a new branch to work on a feature safely, save my changes with the commit command, uploaded the branch to github, and opened a pull request to combine it into the main project
 
 ```
-# paste your actual commands here
+git branch justin
+git switch justin
+git add .
+git commit "project"
+git push -u origin justin 
+
 ```
 
 ---
 
 ## A mistake I made (or one I want to avoid)
 
-[What tripped you up? A confusing error message, committing to the wrong branch, a merge conflict — explain it so a classmate reading this avoids the same mistake.]
+making edits or modifications and commiting it directly to the main branch instead of creating a new branch where i should be editing the file 
 
 ---
 
 ## How this connects to something else
 
-[Optional: how does version control relate to anything else you've learned or used before?]
+this connects directly to videogames and cloud docs like google docs,just like playing on a sandbox server or writing in suggesting mode in google docs, branches let you play around without ruining the main world  or messing the main shared document
