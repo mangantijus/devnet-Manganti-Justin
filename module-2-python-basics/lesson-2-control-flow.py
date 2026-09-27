@@ -44,8 +44,8 @@ else:
 ============================================
 A MISTAKE I MADE (or one I want to avoid)
 ============================================
-[what's something confusing or easy to get wrong
-about this topic?]
+Forgetting to put a colon (`:`) at the end of an `if`, `elif`, or `else` line. 
+Leaving it out causes a `SyntaxError` and stops the program from running.
 
 
 ============================================
