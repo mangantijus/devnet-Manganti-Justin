@@ -7,9 +7,9 @@
 
 ## What is Git? What is GitHub? (explain like you're teaching a friend who's never used either)
 
-  For git its like in videogames, in videogames there is a savepoint or checkpoint for saving your progress in the game, so if you mess up or made a mistake while trying to defeat the boss, you dont need to start all over again from the start, you just need to reload the savepoint or checkpoint you saved earlier.
+  # For git its like in videogames, in videogames there is a savepoint or checkpoint for saving your progress in the game, so if you mess up or made a mistake while trying to defeat the boss, you dont need to start all over again from the start, you just need to reload the savepoint or checkpoint you saved earlier.
 
- For github is like google drive or google docs, it stores the work or documents you created, where you can also share to your classmates or friends, they can also have a copy of the work and modify whenever they want, also they can make suggestions for the document you uploaded
+ # For github is like google drive or google docs, it stores the work or documents you created, where you can also share to your classmates or friends, they can also have a copy of the work and modify whenever they want, also they can make suggestions for the document you uploaded
 ---
 
 ## Key vocabulary (in your own words)
