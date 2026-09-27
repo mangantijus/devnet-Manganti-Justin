@@ -14,7 +14,7 @@ command so you can reuse it anytime you need it
 ============================================
 KEY VOCABULARY
 ============================================
-- function:a reusable block of code that performs a specific task
+- function:a reusable line of code that performs a specific task
 - def:the keyword used in python to create a new function
 - parameter:a variable inside the function definition that accepts input values
 - argument: the actual value passed into a function when calling it
