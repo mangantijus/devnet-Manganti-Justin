@@ -15,7 +15,7 @@ command so you can reuse it anytime you need it
 KEY VOCABULARY
 ============================================
 - function:a reusable line of code that performs a specific task
-- def:the keyword used in python to create a new function
+- def:the keyword used in python to create a new function  
 - parameter:a variable inside the function definition that accepts input values
 - argument: the actual value passed into a function when calling it
 - return value: the output or result that a function sends back after running
@@ -38,8 +38,8 @@ print(message)
 ============================================
 A MISTAKE I MADE (or one I want to avoid)
 ============================================
-forgetting to input or include required arguments when calling a function, calling greet_user without providing
-a name causes an error
+forgetting to input or include required arguments when calling a function, calling greet_user() which is the function,  without providing 
+a name causes it to show an error
 
 ============================================
 HOW THIS CONNECTS TO SOMETHING ELSE
