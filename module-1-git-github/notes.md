@@ -7,19 +7,23 @@
 
 ## What is Git? What is GitHub? (explain like you're teaching a friend who's never used either)
 
-  # For git its like in videogames, in videogames there is a savepoint or checkpoint for saving your progress in the game, so if you mess up or made a mistake while trying to defeat the boss, you dont need to start all over again from the start, you just need to reload the savepoint or checkpoint you saved earlier.
-
- # For github is like google drive or google docs, it stores the work or documents you created, where you can also share to your classmates or friends, they can also have a copy of the work and modify whenever they want, also they can make suggestions for the document you uploaded
 ---
+
+  git its like in videogames, in videogames there is a savepoint or checkpoint for saving your progress in the game, so if you mess up or made a mistake while trying to defeat the boss, you dont need to start all over again from the start, you just need to reload the savepoint or checkpoint you saved earlier
+
+  github its like google drive or google docs, it stores the work or documents you created, where you can also share to your classmates or friends, they can also have a copy of the work and modify whenever they want, also they can make suggestions for the document you uploaded 
+
+---
+
 
 ## Key vocabulary (in your own words)
 
-- repository:
-- commit:
-- branch:
-- push / pull:
-- pull request:
-- merge conflict:
+- repository: the main folder where your project and its history is stored
+- commit: a saved snapshot or changes of your projects changes at a specific point in time
+- branch: a seperate workspace copy where you can make changes without messing up the main project
+- push / pull: push uploads the changes to the github and pull download the latest changes from github to computer
+- pull request:a request asking the owner of the main to review and approve your branch changes before combining the changes to the main project
+- merge conflict:an issue that happens when two people change the exact same line of code in different ways,requiring to manually choose which change to keep 
 
 ---
 
